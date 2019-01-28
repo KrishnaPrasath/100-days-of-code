@@ -9,17 +9,25 @@
 
 **Link to work:** N/A
 
-**Source Code : Added to repo 
+**Source Code:** added to repo
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 1 January 27,2019
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Read an article about BST finding an element | Spent an hour doing FreeCodeCamp and learnt applied visual design | 30 mins of Python 2 basics |
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I'm afraid how I'm going to remeber all those things I've learned today so far. After all, BST seems east |
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: N/A
 
+### Day 2 January 28,2019
+##### (delete me or comment me out)
+
+**Today's Progress**: Read Cracking coding Interview | Read Java Oracle docs - Processed and threads | 
+
+**Thoughts**: Not able to schedule time for regular activities , couldn't be more productive like being on weekends.
+
+**Link(s) to work**: N/A
 
 ### Day 1: June 27, Monday
 
