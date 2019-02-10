@@ -29,6 +29,15 @@
 
 **Link(s) to work**: N/A
 
+### Day 3 February 2,2019
+##### (delete me or comment me out)
+
+**Today's Progress**: Creted a simple calculator and coffe_ordering app using Jfram in netBeans | 
+
+**Thoughts**: Proud of myself for completing the task |
+
+**Link(s) to work**: N/A
+
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
