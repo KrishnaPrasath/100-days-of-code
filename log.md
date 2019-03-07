@@ -38,6 +38,26 @@
 
 **Link(s) to work**: N/A
 
+### Day 4 March 5,2019
+##### (delete me or comment me out)
+
+**Today's Progress**: Completed Freecode camp's Responsive Web Design Principles | Started to take Notes using MS One Note | Came to know about PWA which is a tecnology introduced on 2015| 
+
+**Thoughts**: Feeling bad for leaving such a gap between day 3 and 4 |
+
+**Link(s) to work**: https://learn.freecodecamp.org/ | 
+
+### Day 4 March 7/8,2019
+##### (delete me or comment me out)
+
+**Today's Progress**: Completed Freecode camp's Flex box | Noted down in one note | completed floggyflexbox challenge
+
+**Thoughts**: It's taking longer than expected to finish |
+
+**Link(s) to work**: https://learn.freecodecamp.org/ | https://flexboxfroggy.com/
+
+
+
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
