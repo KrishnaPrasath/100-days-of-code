@@ -66,6 +66,19 @@
 
 **Link(s) to work**: 
 
+### Day 5 August 07,2019
+##### (delete me or comment me out)
+
+**It has been a long period of gap in my learning curve. Quit my job and joined as an intern at GUVI by July 15,2019. Lot has happened. Hoping to achieve a lot.
+
+**Today's Progress**: Watched cs 50 intro and 2 more videos - learned fundamentals of how computer works based on I/P received | Completed GUVI course - WEB DEVELOPMENT | Working on soring arrays (realized that there is lot more to cover)
+
+**Task pending : Posting a blog about BootStrap | Buldinng a layout for a website
+
+**Thoughts**: Routine is the key | Follow the 5 second rule
+
+**Link(s) to work**: 
+
 
 ### Day 1: June 27, Monday
 
