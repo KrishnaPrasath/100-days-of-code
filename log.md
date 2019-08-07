@@ -66,7 +66,7 @@
 
 **Link(s) to work**: 
 
-### Day 5 August 07,2019
+### Day 6 August 07,2019
 ##### (delete me or comment me out)
 
 **It has been a long period of gap in my learning curve. Quit my job and joined as an intern at GUVI by July 15,2019. Lot has happened. Hoping to achieve a lot.
@@ -76,6 +76,8 @@
 **Task pending : Posting a blog about BootStrap | Buldinng a layout for a website
 
 **Thoughts**: Routine is the key | Follow the 5 second rule
+
+**Things I learned : When I tried to sort an array, I kept getting the sorted arrays in a reverse order. Then after 2-3 hours of brainstorming, I figured that I had to start runnning the inner loop from where I start from outerloop on each iteration.
 
 **Link(s) to work**: 
 
