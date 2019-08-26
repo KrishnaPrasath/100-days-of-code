@@ -81,6 +81,19 @@
 
 **Link(s) to work**: 
 
+### Day 8 August 26,2019
+##### (delete me or comment me out)
+
+**Still not cathing up the pace in logging my activity but doing a lot of learning and less coding. Lot to go.
+
+**Today's Progress**:Posted a question in stack overflow | Learned critical and weird JS concepts including  ==&=== , logial and bitwise & and |, type coercian ,toString and valueOf ,apply, call and bind , IIFE. 
+
+**Task pending : Posting a blog  abt JS conceps | Starting a project
+
+**Thoughts**: Never forget why you chose this path
+
+**Link(s) to work**: 
+
 
 ### Day 1: June 27, Monday
 
