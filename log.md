@@ -95,6 +95,20 @@
 **Link(s) to work**: 
 
 
+### Day 9 September 06,2019
+##### (delete me or comment me out)
+
+**Still not cathing up the pace in logging my activity but doing a lot of learning and less coding. Lot to go.
+
+**Today's Progress**: Python classes and objects | self and CLS | 
+
+**Task pending : Posting a blog  abt JS conceps | Starting a project | Blog about why linked list is invented
+
+**Thoughts**: Never forget why you chose this path | dedication
+
+**Link(s) to work**: 
+
+
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
