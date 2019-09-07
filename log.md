@@ -81,7 +81,7 @@
 
 **Link(s) to work**: 
 
-### Day 8 August 26,2019
+### Day 7 August 26,2019
 ##### (delete me or comment me out)
 
 **Still not cathing up the pace in logging my activity but doing a lot of learning and less coding. Lot to go.
@@ -95,7 +95,23 @@
 **Link(s) to work**: 
 
 
-### Day 9 September 06,2019
+### Day 8 September 06,2019
+##### (delete me or comment me out)
+
+**Still not cathing up the pace in logging my activity but doing a lot of learning and less coding. Lot to go.
+
+**Today's Progress**: Python classes and objects | self and CLS | Read about first timers only | CSP - Content Security Policy | 
+
+**Task pending : Posting a blog  abt JS conceps | Starting a project | Blog about why linked list is invented | Contributing to a open source
+
+**Thoughts**: Never forget why you chose this path | dedication | Contribute and be kind
+
+**Link(s) to work**: 
+                  1. https://www.firsttimersonly.com/
+                  2. https://up-for-grabs.net/#/
+                  
+
+### Day 9 September 07,2019
 ##### (delete me or comment me out)
 
 **Still not cathing up the pace in logging my activity but doing a lot of learning and less coding. Lot to go.
@@ -107,7 +123,6 @@
 **Thoughts**: Never forget why you chose this path | dedication
 
 **Link(s) to work**: 
-
 
 ### Day 1: June 27, Monday
 
