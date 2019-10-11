@@ -124,6 +124,25 @@
 
 **Link(s) to work**: 
 
+
+  
+
+### Day 10 October 11,2019
+##### (delete me or comment me out)
+
+**Still not cathing up the pace in logging my activity but doing a lot of learning and less coding. Lot to go.
+
+**Today's Progress**: Started recursion, graphQL, JS ES6 | contributed to OPEN source by correcting a document, It's a small change, yet means a lot to me. It got approved and I'm under their contributors list
+
+**Task pending : Posting a blog  abt JS conceps | Starting a project | Blog about why linked list is invented | React project
+
+**Thoughts**: Never forget why you chose this path | dedication
+
+**Link(s) to work**: 
+1. http://javascript.info/devtools
+2. https://hacktoberfest.digitalocean.com/profile
+3. https://github.com/thechangelog/transcripts & github.com/thechangelog/transcripts/commit/5e6215d6ef1b8121b089f2aa17155b6328303eeb#diff-79839f03974f768a88e6938bf6f9f58a
+
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
@@ -133,3 +152,4 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
