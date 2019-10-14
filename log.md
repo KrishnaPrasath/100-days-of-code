@@ -143,6 +143,18 @@
 2. https://hacktoberfest.digitalocean.com/profile
 3. https://github.com/thechangelog/transcripts & github.com/thechangelog/transcripts/commit/5e6215d6ef1b8121b089f2aa17155b6328303eeb#diff-79839f03974f768a88e6938bf6f9f58a
 
+### Day 11: October 14, Monday
+
+**Today's Progress**: Introdcued myself into Redux and Ramda JS a library to acheive functional pgmng with JS | Learned about ANgular's one way / two way binding
+
+**Thoughts** Learning is never gonna end and be joyful unless you love and understand the material
+
+**Link(s) to work**
+1. https://ramdajs.com/ 
+2. https://buzzdecafe.github.io/code/2014/05/16/introducing-ramda
+
+
+
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
