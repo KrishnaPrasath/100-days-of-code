@@ -153,6 +153,19 @@
 1. https://ramdajs.com/ 
 2. https://buzzdecafe.github.io/code/2014/05/16/introducing-ramda
 
+### Day 12: October 15, Tuesday
+
+**Today's Progress**: Learnt currying and Ramda methods (R.__ and R.add) | Introduced to request NPM | Completed weather app within a day in MEAN stack | Wrote bubble sort on my own
+
+**Thoughts** In the weather app, I've pinged a 3rd party server from my local(NodeJs) server and stored the data in MongoDB and then accessed it 
+
+**PENDING** : Yet to write ReadMe.md for weather app
+
+**Link(s) to work**
+1. https://www.npmjs.com/package/request
+2. https://www.youtube.com/watch?v=Cltoo-NJ2JM&list=PLrhzvIcii6GMeyUfpn-o5xVCH3_UykrzI&index=2&t=0s (Ramda)
+3. https://github.com/KrishnaPrasath/WeatherApp
+
 
 
 ### Day 1: June 27, Monday
