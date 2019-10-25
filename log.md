@@ -166,6 +166,17 @@
 2. https://www.youtube.com/watch?v=Cltoo-NJ2JM&list=PLrhzvIcii6GMeyUfpn-o5xVCH3_UykrzI&index=2&t=0s (Ramda)
 3. https://github.com/KrishnaPrasath/WeatherApp
 
+### Day 13: October 24, Thursday
+
+**Today's Progress**: Finally created a portfolio using Reveal.Js | 
+
+**Thoughts** Realised that I have not much to put into my portfolio, project slides and blogs.
+
+***Pending*** Add more projects to portfolio and blogs.
+
+**Link(s) to work**
+1. https://krishnaprasath.github.io/index
+
 
 
 ### Day 1: June 27, Monday
