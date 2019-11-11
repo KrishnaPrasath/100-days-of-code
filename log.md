@@ -177,6 +177,17 @@
 **Link(s) to work**
 1. https://krishnaprasath.github.io/index
 
+### Day 14: November 11, Monday
+
+**Today's Progress**: Going to play around with Puppeteer | Last week , I joined at GUVI as a Full Stack developer | Not very fun
+
+**Thoughts** Love what you do and never forget to love what you do
+
+***Pending*** Lot of things, getting my shit together
+
+**Link(s) to work**
+1. http://thecodebarbarian.com/control-chrome-from-node-js-with-puppeteer.html
+
 
 
 ### Day 1: June 27, Monday
