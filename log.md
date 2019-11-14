@@ -188,6 +188,17 @@
 **Link(s) to work**
 1. http://thecodebarbarian.com/control-chrome-from-node-js-with-puppeteer.html
 
+### Day 15: November 14, Monday
+
+**Today's Progress**: My user story went ```LIVE```
+
+**Thoughts** Always press the button only if you know why
+
+***Pending*** React hooks
+
+**Link(s) to work**
+1. guvi.in/register.html
+
 
 
 ### Day 1: June 27, Monday
